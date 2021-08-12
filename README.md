@@ -91,13 +91,14 @@ A small help from me if you want to build your own rootfs [wiki_page](https://gi
 # Devolopers & credits
 Made with ❤️ from:
 
-DEV #0 -> [Saicharankandukuri](https://github.com/SaicharanKandukuri)
+DEV #0 -> https://github.com/saikiran9909
 
-Dev #1 -> [Gxmersam](https://github.com/GxmerSam)
+
+Dev #1 -> https://github.com/randomseekerorg
 
 # Licence
 MIT
-Copyright (c) 2021 Saicharan Kandukuri
+Copyright (c) 2021  saikiran voladri
 
 <h2 align="center"> More Updates coming soon 💛</h2>
 
